@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @01MLA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @01MLA
 
-<!---
-01MLA/01MLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Passionate about **software engineering, Android app development, and tackling challenging problems**  
+- 🌱 Currently learning **modern Android development** (Jetpack Compose + Retrofit + Room, plus exploring other tools & libraries)  
+- 💞️ Open to collaborating on **open-source Android apps, competitive programming projects, and innovative software ideas**  
+- 📫 Reach me at: **M.LatifArfani5@Gmail.com**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: I can switch between **Kotlin and Java** almost as fast as I can switch browser tabs 😄  
