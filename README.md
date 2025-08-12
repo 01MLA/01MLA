@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @01MLA
+# 👋 Hi, I’m Mohammad Latif Arfani
 
 - 👀 Passionate about **software engineering, Android app development, and tackling challenging problems**  
 - 🌱 Currently learning **modern Android development** (Jetpack Compose + Retrofit + Room, plus exploring other tools & libraries)  
